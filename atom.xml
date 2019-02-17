@@ -5,21 +5,63 @@
   <subtitle>a blog for everything</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-10-20T14:54:40.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://cactusspine.github.io/"/>
+  <updated>2018-10-20T15:52:30.000Z</updated>
+  <id>https://cactusspine.github.io/</id>
   
   <author>
-    <name>Panda</name>
+    <name>PandaPumpa</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Deep Learning Note-1</title>
+    <link href="https://cactusspine.github.io/uncategorized/2018/10/20/Deep-Learning-Note-1/"/>
+    <id>https://cactusspine.github.io/uncategorized/2018/10/20/Deep-Learning-Note-1/</id>
+    <published>2018-10-20T15:52:30.000Z</published>
+    <updated>2018-10-20T15:52:30.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>use hexo and github to start personal blog</title>
+    <link href="https://cactusspine.github.io/uncategorized/2018/10/20/use-hexo-and-github-to-start-personal-blog/"/>
+    <id>https://cactusspine.github.io/uncategorized/2018/10/20/use-hexo-and-github-to-start-personal-blog/</id>
+    <published>2018-10-20T15:51:54.000Z</published>
+    <updated>2018-10-20T15:51:54.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>How to install nvm</title>
+    <link href="https://cactusspine.github.io/uncategorized/2018/10/20/How-to-install-nvm/"/>
+    <id>https://cactusspine.github.io/uncategorized/2018/10/20/How-to-install-nvm/</id>
+    <published>2018-10-20T15:51:23.000Z</published>
+    <updated>2018-10-20T15:51:23.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/10/20/hello-world/"/>
-    <id>http://yoursite.com/2018/10/20/hello-world/</id>
+    <link href="https://cactusspine.github.io/uncategorized/2018/10/20/hello-world/"/>
+    <id>https://cactusspine.github.io/uncategorized/2018/10/20/hello-world/</id>
     <published>2018-10-20T14:54:40.000Z</published>
     <updated>2018-10-20T14:54:40.000Z</updated>
     

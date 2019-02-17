@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/10/20/hello-world/</loc>
+    <loc>https://cactusspine.github.io/uncategorized/2018/10/20/Deep-Learning-Note-1/</loc>
+    
+    <lastmod>2018-10-20T15:52:30.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cactusspine.github.io/uncategorized/2018/10/20/use-hexo-and-github-to-start-personal-blog/</loc>
+    
+    <lastmod>2018-10-20T15:51:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cactusspine.github.io/uncategorized/2018/10/20/How-to-install-nvm/</loc>
+    
+    <lastmod>2018-10-20T15:51:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cactusspine.github.io/uncategorized/2018/10/20/hello-world/</loc>
     
     <lastmod>2018-10-20T14:54:40.000Z</lastmod>
     
